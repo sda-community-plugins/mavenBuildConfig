@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.serena</groupId>
+  <artifactId>air-plugin-ant-tasks</artifactId>
+  <versioning>
+    <release>CURRENT</release>
+    <versions>
+      <version>CURRENT</version>
+    </versions>
+    <lastUpdated>20181207091457</lastUpdated>
+  </versioning>
+</metadata>
